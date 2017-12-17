@@ -9,6 +9,8 @@ body {
   margin: 0;
   background-color: #0d0d0d;
   color: #fff;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
 }
 .container {
