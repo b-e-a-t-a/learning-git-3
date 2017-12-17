@@ -27,4 +27,5 @@ p:last-child {
 }
 p:nth-of-type(2) {
   padding-left: 3vw;
+  color: red;
 }
