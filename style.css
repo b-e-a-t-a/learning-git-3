@@ -24,6 +24,7 @@ h2 {
 }
 p:last-child {
   font-style: italic;
+  color: #f2f2f2;
 }
 p:nth-of-type(2) {
   padding-left: 3vw;
