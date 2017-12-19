@@ -1,11 +1,13 @@
 @import url('https://fonts.googleapis.com/css?family=Alegreya');
 
+$fonts: 'Alegreya', serif;
+
 * {
   box-sizing: border-box;
 }
 
 body {
-  font-family: 'Alegreya', serif;
+  font-family: $fonts;
   margin: 0;
   background-color: #0d0d0d;
   color: #fff;
